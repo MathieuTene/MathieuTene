@@ -7,7 +7,7 @@
 ## About Me  
 I am a Computer Engineering student with a solid background in **Applied Mathematics** and **Data Science**. My profile bridges the gap between technical expertise (Machine Learning, Back-end development) and project management. 
  
-- **Background:** Data Scientist Internship @ MCP Finance, Python Trainer, and Junior Back-End Developer  
+- **Background:** Data Scientist Intern, Python Trainer, and Junior Back-End Developer  
 - **Passion:** AI-driven innovation, financial markets 
 
 ---
@@ -28,10 +28,10 @@ I am a Computer Engineering student with a solid background in **Applied Mathema
 ## Featured Projects  
 
 ### 📊 [Fake Banknote Detection](https://github.com/MathieuTene/detection_faux_billet)  
-*End-to-end Data project.*  
-- Implemented ML algorithms (Scikit-learn, Statsmodels) to identify counterfeit notes.  
-- Built a dashboard using **Dash Plotly** for real-time identification.  
-- **Keywords:** Python, EDA, Machine Learning, Deployment.
+*End-to-end Data project*  
+- Implemented ML algorithms (Scikit-learn, Statsmodels) to identify counterfeit notes
+- Built a dashboard using **Dash Plotly** for real-time identification
+- **Keywords:** Python, EDA, Machine Learning, Deployment
 
 ### 📁 [Project-Manager](https://github.com/MathieuTene/Project-Manager)  
 *Back-end side of a web application for task management.*  
@@ -40,10 +40,10 @@ I am a Computer Engineering student with a solid background in **Applied Mathema
 - **Keywords:** Java, Spring, API REST.
 
 ### 📈 [Statistical Study: Digital Professions](https://github.com/MathieuTene/Academic-Experiences/tree/main/Statistique)  
-*Academic Data Analysis Project.*  
-- Field survey analyzing secondary school students' interest in digital professions.  
-- Data preprocessing and visualization, with statistical testing (Chi-square, Cramer's V).  
-- **Keywords:** Excel, Data Analysis, Statistics, Survey Analysis. 
+*Academic Data Analysis Project*  
+- Field survey analyzing secondary school students' interest in digital professions
+- Data preprocessing and visualization, with statistical testing (Chi-square, Cramer's V)  
+- **Keywords:** Excel, Data Analysis, Statistics, Survey Analysis
 
 ---
 
