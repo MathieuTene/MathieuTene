@@ -1,4 +1,4 @@
-# 👋 Mathieu TENE  
+# 👋 Hi, I'm Mathieu TENE  
 **Computer Engineering Student | Aspiring Project Manager & Data Scientist**  
 *Currently seeking a 24-month apprenticeship starting September 2026*  
 
