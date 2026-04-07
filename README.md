@@ -34,7 +34,7 @@ I am a Computer Engineering student with a solid background in **Applied Mathema
 - **Keywords:** Python, EDA, Machine Learning, Deployment.
 
 ### 📁 [Project-Manager](https://github.com/MathieuTene/Project-Manager)  
-*Back-end site web application for task management.*  
+*Back-end side of a web application for task management.*  
 - Built using **Spring Boot** and **Spring Data JPA**.  
 - Features secure API integration and task tracking.  
 - **Keywords:** Java, Spring, API REST.
