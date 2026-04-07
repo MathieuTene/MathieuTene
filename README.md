@@ -4,15 +4,15 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I am a Computer Engineering student with a solid background in **Applied Mathematics** and **Data Science**. My profile bridges the gap between technical expertise (Machine Learning, Back-end development) and project management. 
  
-- 💼 **Background:** Data Scientist Internship @ MCP Finance, Python Trainer, and Junior Back-End Developer  
-- 💡 **Passion:** AI-driven innovation, financial markets 
+- **Background:** Data Scientist Internship @ MCP Finance, Python Trainer, and Junior Back-End Developer  
+- **Passion:** AI-driven innovation, financial markets 
 
 ---
 
-## 🛠️ Technical Ecosystem  
+## Technical Ecosystem  
 
 | **Category** | **Technologies & Tools** |
 | :--- | :--- |
@@ -25,7 +25,7 @@ I am a Computer Engineering student with a solid background in **Applied Mathema
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 ### 📊 [Fake Banknote Detection](https://github.com/MathieuTene/detection_faux_billet)  
 *End-to-end Data project.*  
@@ -47,17 +47,17 @@ I am a Computer Engineering student with a solid background in **Applied Mathema
 
 ---
 
-## 📈 My GitHub Stats  
+## My GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathieuTene&show_icons=true&theme=tokyonight" alt="Mathieu's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuTene&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathieuTene&theme=tokyonight" alt="GitHub Profile" />
+
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MathieuTene&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📬 Let's Connect!  
+## Contacts  
 - 📧 **Email:** [tenemathieu1@gmail.com](mailto:tenemathieu1@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/mathieu-tene](https://linkedin.com/in/mathieu-tene)
 
