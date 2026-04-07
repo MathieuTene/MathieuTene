@@ -39,10 +39,11 @@ I am a Computer Engineering student with a solid background in **Applied Mathema
 - Features secure API integration and task tracking.  
 - **Keywords:** Java, Spring, API REST.
 
-### 🤖 [Language Learning Chatbot](https://github.com/MathieuTene/MiniMind-WEIMAK)  
-*Personal AI Assistant.*  
-- Automated workflows with **n8n** and **OpenAI API**.  
-- RAG (Retrieval-Augmented Generation) architecture for resource querying.  
+### 📈 [Statistical Study: Digital Professions](https://github.com/MathieuTene/Academic-Experiences/tree/main/Statistique)  
+*Academic Data Analysis Project.*  
+- Field survey analyzing secondary school students' interest in digital professions.  
+- Data preprocessing and visualization, with statistical testing (Chi-square, Cramer's V).  
+- **Keywords:** Excel, Data Analysis, Statistics, Survey Analysis. 
 
 ---
 
