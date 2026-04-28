@@ -33,6 +33,12 @@ I am a Computer Engineering student with a solid background in **Applied Mathema
 - Built a dashboard using **Dash Plotly** for real-time identification
 - **Keywords:** Python, EDA, Machine Learning, Deployment
 
+### 🚂 [Train Simulator](https://github.com/MathieuTene/Reseau_Ferroviaire)  
+*Java & JavaFX modeling and simulation project.*  
+- Developed a physical simulation engine for train movement on a rail network.  
+- Implemented a graphical interface with an animation loop and custom sprites.  
+- **Keywords:** Java, JavaFX, OOP, Simulation, Gradle.
+
 ### 📁 [Project-Manager](https://github.com/MathieuTene/Project-Manager)  
 *Back-end side of a web application for task management*  
 - Built using **Spring Boot** and **Spring Data JPA** 
